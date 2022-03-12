@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AasmiVS
+- 👀 I’m interested in AI & Data Science
+- 🌱 I’m currently learning Data Science
+- 💞️ I’m looking to collaborate on AI/Data Science in Medicice
+- 📫 To reach me contact me in linkedin
